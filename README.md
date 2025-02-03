@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pratyush</h1>
 <h3 align="center">A passionate application developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj742133" alt="raj742133" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raj742133&label=Profile%20views&color=0e75b6&style=flat" alt="raj742133" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj742133" alt="raj742133" /></a> </p>
 
 - 🔭 I’m currently working on **Yogamte**
 
 - 🌱 I’m currently learning **swiftui,applevision,DBMS**
+
+- 💬 Ask me about **swiftui,JAVA,Python,Flutter**
 
 - 📫 How to reach me **pratyushbiswas1000@gmail.com**
 
@@ -23,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj742133&show_icons=true&locale=en" alt="raj742133" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj742133&" alt="raj742133" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj742133&theme=dark" alt="raj742133" /></p>
